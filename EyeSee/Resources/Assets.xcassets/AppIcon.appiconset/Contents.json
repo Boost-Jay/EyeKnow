@@ -78,14 +78,14 @@
       "size" : "64x64"
     },
     {
-      "filename" : "未命名設計.png",
+      "filename" : "192.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
       "size" : "64x64"
     },
     {
-      "filename" : "ff.png",
+      "filename" : "136.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "2x",
@@ -106,7 +106,7 @@
       "size" : "83.5x83.5"
     },
     {
-      "filename" : "ddd.png",
+      "filename" : "finalIcon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
