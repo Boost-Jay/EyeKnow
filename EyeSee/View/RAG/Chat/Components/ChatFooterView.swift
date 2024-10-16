@@ -109,7 +109,7 @@ fileprivate extension ChatFooterView {
         }
         .fileImporter(isPresented: $isChooseFile, allowedContentTypes: [.pdf]) { result in
             switch result {
-            case .success(let fileURL):
+                case .success(_):
                 
                 if let url = try? result.get() {
                     guard url.startAccessingSecurityScopedResource() else {
